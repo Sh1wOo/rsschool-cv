@@ -44,3 +44,11 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
     navigateTo('home');
 ```
+
+## __Education__
+- __College:__ College Business and low
+- __Courses:__
+- [YouTube](https://www.youtube.com/)
+
+## __English__
+__A2__
