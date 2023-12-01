@@ -6,3 +6,15 @@
 - __Location:__ Brest, Belarus
 - __Email:__ nikitayatsun@vk.com
 - __GitHub:__ [Sh1wOo](https://github.com/Sh1wOo)
+
+## __About Me__
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.\
+I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+
+## __Skills__
+- HTML
+- CSS/SASS
+- JavaScript (Middle+)
+- Git
+- React
+- TypeSript (Middle)
